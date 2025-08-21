@@ -15,13 +15,16 @@ Key screenshots from the simulation:
 **TDE simulation – Star is Further Disrupted**
 ![TDE simulation – Star is further Disrupted](Sim_Images/Jet2.png)
 
-A full animation is available: **[Cygnus 1-X Simulation.mp4](Cygnus 1-X Simulation.mp4)**
+A full animation is available: in **Cygnus 1-X Simulation.mp4**
 
-This was produced as a final project for Astron 9 (intro to python for astrophysics research) 
+This was produced as a **final project** for Astron 9 (intro to python for astrophysics research) 
 
-**I personaly created:**  star as a cloud of particles, the class object which gives data (mass, position, velocity) to our cloud of particles and simualtes timesteps (defined by dt), 3d plots, and the actual animation.
+**I personaly created:**
+- Star as a cloud of particles
+- **Class Object** which gives data (mass, position, velocity) to our cloud and simulates timesteps (defined by dt)
+- 3D Plots using Matplotlib
+- Final animation with **FFMpegWriter**
 
-the animation are in **Sim_Images** folder. Entire animation is **Cygnus 1-X Simulation.mp4**
 **Libraries utilized:** Numpy, Matplotlib, and FFMpegWriter.
 
 **Runtime:** 2 minutes.
