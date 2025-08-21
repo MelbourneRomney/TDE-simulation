@@ -5,7 +5,9 @@ Key screenshots of the animation are in **Sim_Images** folder. Entire animation 
 
 This was produced as a final project for Astron 9 (intro to python for astrophysics research) 
 
-**I personaly created:** the class object, star as a cloud of particles, 3d plots, and the actual animation.
+**I personaly created:**  star as a cloud of particles, the class object which gives data (mass, position, velocity) to our cloud of particles and simualtes timesteps (defined by dt), 3d plots, and the actual animation.
+
+![TDE simulation – stretching begins](Sim_Images/Stretch1.png)
 
 Libraries utilized include Numpy, Matplotlib, and FFMpegWriter.
 
