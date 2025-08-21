@@ -1,7 +1,9 @@
 # TDE-simulation
 Simulation of tidal disruption event losely modeled of the Cygnus 1-X system. Star is represented by a cloud of particles with masses that add up to the star mass.
 
-This was produced as a final project for Astron 9 (intro to python for astrophysics research) I personaly created the our class object, generated the star as a cloud of particles, drew 3d plots, and created the animation.
+This was produced as a final project for Astron 9 (intro to python for astrophysics research) 
+
+**I personaly created:** the class object, star as a cloud of particles, 3d plots, and the actual animation.
 
 Libraries utilized include Numpy, Matplotlib, and FFMpegWriter.
 
