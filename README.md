@@ -7,10 +7,10 @@ This was produced as a final project for Astron 9 (intro to python for astrophys
 
 **I personaly created:**  star as a cloud of particles, the class object which gives data (mass, position, velocity) to our cloud of particles and simualtes timesteps (defined by dt), 3d plots, and the actual animation.
 
-TDE simulation – stretching begins
+**TDE simulation – stretching begins**
 ![TDE simulation – stretching begins](Sim_Images/Stretch1.png)
 
-TDE simulation – Star is Ripped Apart
+**TDE simulation – Star is Ripped Apart**
 ![TDE simulation – Star is Ripped Apart](Sim_Images/Jet1.png)
 
 Libraries utilized include Numpy, Matplotlib, and FFMpegWriter.
