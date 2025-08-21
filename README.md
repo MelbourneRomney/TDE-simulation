@@ -13,8 +13,8 @@ This was produced as a final project for Astron 9 (intro to python for astrophys
 **TDE simulation – Star is Ripped Apart**
 ![TDE simulation – Star is Ripped Apart](Sim_Images/Jet1.png)
 
-Libraries utilized include Numpy, Matplotlib, and FFMpegWriter.
+**Libraries utilized:** Numpy, Matplotlib, and FFMpegWriter.
 
-Runtime: 2 minutes.
+**Runtime:** 2 minutes.
 
-Limitations: This project lacks the star orbiting our black hole, so we cannot see the formation of an accretion disc. Our black hole also lacks relativity principals which would cause objects to get 'stuck' within the event horizon due to extreme spacetime curvature. 
+**Limitations:** This project lacks the star orbiting our black hole, so we cannot see the formation of an accretion disc. Our black hole also lacks relativity principals which would cause objects to get 'stuck' within the event horizon due to extreme spacetime curvature. 
