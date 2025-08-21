@@ -1,2 +1,6 @@
 # TDE-simulation
-Simulation of tidal disruption event losely modeled of the Cygnus 1-X system. Star is represented by a cloud of particles with masses that add up to the star mass. Simulation may take around 2 minutes to generate.
+Simulation of tidal disruption event losely modeled of the Cygnus 1-X system. Star is represented by a cloud of particles with masses that add up to the star mass.
+This was produced as a final project for Astron 9 (intro to python for astrophysics research) I personaly created the our class object, generated the star as a cloud of particles, drew 3d plots, and created the animation. 
+Libraries utilized include Numpy, Matplotlib, and FFMpegWriter.
+Runtime: 2 minutes
+Limitations: This project lacks the star orbiting our black hole, so we cannot see the formation of an accretion disc. Our black hole also lacks relativity principals which would cause objects to get 'stuck' within the event horizon due to extreme spacetime curvature. 
